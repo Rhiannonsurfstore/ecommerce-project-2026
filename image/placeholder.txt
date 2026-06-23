@@ -1,0 +1,4 @@
+homepage.png
+productpage.png
+cartpage.png
+contactpage.png
