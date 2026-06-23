@@ -14,10 +14,10 @@ Wix
 -contact page
 -cart interaction
 ##screenshots
-###home page 
-###product page 
-###contact page 
-###cart page
+-home page 
+-product page
+-contact page 
+-cart page
 ##challenges
 -learning how to use Wix
 -organising products and pages
