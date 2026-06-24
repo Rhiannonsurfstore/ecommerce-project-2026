@@ -5,7 +5,7 @@
 -Academic Year:2025-2026
 ## Projet title
 Rhiannon surf store
-##Platform used
+## Platform used
 Wix
 ## Features Implemented
 -homepage
