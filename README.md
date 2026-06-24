@@ -1,8 +1,11 @@
 # Rhiannon surf shop E-Commerce website
 ## Student information
--Name:Abayisenga ziripa
--Course:E-Commerce and Web Application
--Academic Year:2025-2026
+### Name
+Abayisenga ziripa
+###Course 
+E-Commerce and Web Application
+### Academic Year 
+2025-2026
 ## Projet title
 Rhiannon surf store
 ## Platform used
